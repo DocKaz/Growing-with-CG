@@ -1,0 +1,26 @@
+.plant {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  margin-bottom: 1rem;
+}
+
+.plant h2 {
+  margin: 0;
+}
+
+.plant button {
+  margin-left: 1rem;
+  padding: 0.5rem 1rem;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  background-color: white;
+  cursor: pointer;
+}
+
+.plant button:hover {
+  background-color: lightgray;
+}

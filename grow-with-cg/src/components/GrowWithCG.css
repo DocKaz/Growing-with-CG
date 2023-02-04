@@ -1,0 +1,32 @@
+.growwithcg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+}
+
+.growwithcg-header {
+  margin: 10px 0;
+  font-size: 24px;
+}
+
+.growwithcg-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.growwithcg-input {
+  padding: 10px;
+  margin: 10px 0;
+  width: 200px;
+}
+
+.growwithcg-button {
+  padding: 10px 20px;
+  background-color: lightgreen;
+  border-radius: 5px;
+  margin: 10px 0;
+  cursor: pointer;
+}
